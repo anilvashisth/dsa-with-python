@@ -1,0 +1,1 @@
+print("Sare Jahaan se Achacha Hindustaan Hamara,Hamara ")
