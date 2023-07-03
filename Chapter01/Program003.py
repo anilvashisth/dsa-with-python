@@ -1,2 +1,7 @@
-print("Sare Jahaan se Achacha Hindustaan Hamara,Hamara");
-print("This is Python program 3");
+#Program 3 WAP to Calculate Area of a Circle.
+print(" This is Program 3 for 'DSA with Python' Series");
+pi = 3.14;
+Radius = float (input("Radius:"));
+print(" The Radius of a Circle is :",Radius);
+Area = float(pi*Radius*Radius);
+print(" Area of a circle is :",Area);
