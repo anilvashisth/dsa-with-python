@@ -1,11 +1,11 @@
-a = 1600;
-b = 1220;
-sum = a + b;
-c = a - b;
-d = a * b;
-e = a % b;
-print("The Sum of a and b is :", sum);
-print(" The Difference between a and b is :",c);
-print(" The Multiplication of a and b is :",d);
-print(" The Reminder of a/b is :",  e);
-print("This is Python Program 4")
+#Program 5 WAP to Calculate Volume of a Sphere.
+print("This is Program 5 for 'DSA with Python' Series");
+
+basicsalary = 15000;
+da = basicsalary*40/100;
+hra = basicsalary*20/100;
+grosssalary = basicsalary+da+hra;
+print("The Basic Salary of a person is :",basicsalary);
+print("The DA of a person is :",da);
+print("The HRA of a person is :",hra);
+print("The Gross Salary of a person is :",grosssalary);
