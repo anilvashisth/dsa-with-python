@@ -1,9 +1,8 @@
-a = 86;
-b = 34;
-c = a - b;
-d = a * b;
-e = a % b;
-print(" The Difference between a and b is :",c);
-print(" The Multiplication of a and b is :",d);
-print(" The Reminder of a/b is :",  e);
-print("This is Python Program 4")
+#Program 4 WAP to Calculate Volume of a Sphere.
+print(" This is Program 4 for 'DSA with Python' Series");
+
+pi=3.14;
+Radius= float(input("Enter Radius :"));
+print("Given Radius is : ",Radius);
+Volume = float(4*pi*Radius*Radius*Radius)/3;
+print("Volume of a Sphere is :",Volume);
